@@ -1,0 +1,70 @@
+--Infor pulled from ChatGPT--
+
+
+Todo List App:
+Create a basic to-do list application where users can add, remove, and mark tasks as completed. It's a great way to get started with React's state management.
+
+Counter App:
+Build a simple counter application that allows users to increment and decrement a counter value. This project helps you understand how to manage state and handle events in React.
+
+Weather App:
+Create a weather app that fetches weather data from an API based on user input (e.g., city name or zip code) and displays the current weather conditions.
+
+Calculator:
+Build a basic calculator application that can perform addition, subtraction, multiplication, and division operations. It's a good exercise for handling user input and performing calculations.
+
+Random Quote Generator:
+Develop a simple app that fetches and displays random quotes from an API. You can add a button to fetch a new quote each time it's clicked.
+
+Markdown Previewer:
+Create a markdown previewer that allows users to enter markdown text and see a live preview of the formatted output. It's a great way to practice working with text input and rendering content.
+
+Image Gallery:
+Build an image gallery application that displays a grid of images fetched from an API. You can add features like infinite scrolling or filtering based on categories.
+
+Task Management Board:
+Develop a task management board similar to Trello, where users can create boards, lists, and cards to organize tasks or projects. This project will involve managing complex state and drag-and-drop functionality.
+
+Chat Application:
+Create a simple real-time chat application where users can join chat rooms and send messages. You can use WebSocket libraries like Socket.io for real-time communication.
+
+E-commerce Product Catalog:
+Build a product catalog for an e-commerce website. Users can browse products, view details, and add items to their cart. Implementing a shopping cart and managing state is a valuable learning experience.
+
+Personal Portfolio Website:
+Create your own personal portfolio website to showcase your skills and projects. This project can include multiple pages, a contact form, and a blog section if you like.
+
+Movie Database Search:
+Develop a movie search application that allows users to search for movies by title, genre, or release year. You can fetch movie data from a movie API like OMDB.
+
+Recipe Finder:
+Build a recipe finder app that lets users search for recipes based on ingredients they have. The app can display matching recipes along with cooking instructions.
+
+Music Player:
+Create a basic music player with play, pause, and skip functionalities. You can also add a playlist feature to manage and play a list of songs.
+
+Quiz or Trivia Game:
+Develop a quiz or trivia game where users can answer questions on various topics. You can implement a scoring system and a timer for added complexity.
+
+MEETING TIME: Wed, Thu, Friday 8pm Central/6pm PDT/Eastern 9pm
+
+What game?
+
+BATTLSIHP/SHIP WARS
+
+[Front-End]
+language(s): React.js
+features:
+1.ship objects
+2.logic for where ships
+sockets?
+authorize?
+
+[Back-End]
+language(s): Django, Express
+features:
+
+--resources--
+https://en.wikipedia.org/wiki/Battleship_%28game%29
+
+How to play: https://youtu.be/4gHJlYLomrs?si=gay3lRXfhXhSOsAb
